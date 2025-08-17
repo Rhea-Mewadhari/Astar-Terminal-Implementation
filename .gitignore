@@ -1,0 +1,25 @@
+
+---
+
+### 📄 `.gitignore`
+
+```gitignore
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs or test outputs
+*.log
+*.tmp
