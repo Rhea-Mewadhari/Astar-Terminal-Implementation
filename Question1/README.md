@@ -21,7 +21,7 @@ This project implements the **A\*** search algorithm in a 2D grid environment, s
   - Total path cost
   - Time taken to compute
 
-### 🧰 Requirements
+### Requirements
 - Python
 
 
